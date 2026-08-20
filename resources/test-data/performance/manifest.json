@@ -1,0 +1,415 @@
+﻿{
+    "generatedAt":  "2026-07-20T20:58:11",
+    "documentCount":  50,
+    "questionCount":  150,
+    "documentsPerDomain":  10,
+    "domains":  [
+                    "expense",
+                    "purchase",
+                    "leave",
+                    "security",
+                    "operations"
+                ],
+    "documents":  [
+                      {
+                          "id":  "expense-policy-01",
+                          "file":  "documents/expense-policy-01.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5100,
+                          "slaDays":  6
+                      },
+                      {
+                          "id":  "expense-policy-02",
+                          "file":  "documents/expense-policy-02.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5200,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "expense-policy-03",
+                          "file":  "documents/expense-policy-03.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5300,
+                          "slaDays":  5
+                      },
+                      {
+                          "id":  "expense-policy-04",
+                          "file":  "documents/expense-policy-04.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5400,
+                          "slaDays":  6
+                      },
+                      {
+                          "id":  "expense-policy-05",
+                          "file":  "documents/expense-policy-05.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5500,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "expense-policy-06",
+                          "file":  "documents/expense-policy-06.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5600,
+                          "slaDays":  5
+                      },
+                      {
+                          "id":  "expense-policy-07",
+                          "file":  "documents/expense-policy-07.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5700,
+                          "slaDays":  6
+                      },
+                      {
+                          "id":  "expense-policy-08",
+                          "file":  "documents/expense-policy-08.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5800,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "expense-policy-09",
+                          "file":  "documents/expense-policy-09.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  5900,
+                          "slaDays":  5
+                      },
+                      {
+                          "id":  "expense-policy-10",
+                          "file":  "documents/expense-policy-10.md",
+                          "domain":  "expense",
+                          "owner":  "Finance",
+                          "approvalLimit":  6000,
+                          "slaDays":  6
+                      },
+                      {
+                          "id":  "purchase-policy-01",
+                          "file":  "documents/purchase-policy-01.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20100,
+                          "slaDays":  8
+                      },
+                      {
+                          "id":  "purchase-policy-02",
+                          "file":  "documents/purchase-policy-02.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20200,
+                          "slaDays":  9
+                      },
+                      {
+                          "id":  "purchase-policy-03",
+                          "file":  "documents/purchase-policy-03.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20300,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "purchase-policy-04",
+                          "file":  "documents/purchase-policy-04.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20400,
+                          "slaDays":  8
+                      },
+                      {
+                          "id":  "purchase-policy-05",
+                          "file":  "documents/purchase-policy-05.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20500,
+                          "slaDays":  9
+                      },
+                      {
+                          "id":  "purchase-policy-06",
+                          "file":  "documents/purchase-policy-06.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20600,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "purchase-policy-07",
+                          "file":  "documents/purchase-policy-07.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20700,
+                          "slaDays":  8
+                      },
+                      {
+                          "id":  "purchase-policy-08",
+                          "file":  "documents/purchase-policy-08.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20800,
+                          "slaDays":  9
+                      },
+                      {
+                          "id":  "purchase-policy-09",
+                          "file":  "documents/purchase-policy-09.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  20900,
+                          "slaDays":  7
+                      },
+                      {
+                          "id":  "purchase-policy-10",
+                          "file":  "documents/purchase-policy-10.md",
+                          "domain":  "purchase",
+                          "owner":  "Procurement Office",
+                          "approvalLimit":  21000,
+                          "slaDays":  8
+                      },
+                      {
+                          "id":  "leave-policy-01",
+                          "file":  "documents/leave-policy-01.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  103,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "leave-policy-02",
+                          "file":  "documents/leave-policy-02.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  203,
+                          "slaDays":  4
+                      },
+                      {
+                          "id":  "leave-policy-03",
+                          "file":  "documents/leave-policy-03.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  303,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "leave-policy-04",
+                          "file":  "documents/leave-policy-04.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  403,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "leave-policy-05",
+                          "file":  "documents/leave-policy-05.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  503,
+                          "slaDays":  4
+                      },
+                      {
+                          "id":  "leave-policy-06",
+                          "file":  "documents/leave-policy-06.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  603,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "leave-policy-07",
+                          "file":  "documents/leave-policy-07.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  703,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "leave-policy-08",
+                          "file":  "documents/leave-policy-08.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  803,
+                          "slaDays":  4
+                      },
+                      {
+                          "id":  "leave-policy-09",
+                          "file":  "documents/leave-policy-09.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  903,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "leave-policy-10",
+                          "file":  "documents/leave-policy-10.md",
+                          "domain":  "leave",
+                          "owner":  "Human Resources",
+                          "approvalLimit":  1003,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "security-policy-01",
+                          "file":  "documents/security-policy-01.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  102,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "security-policy-02",
+                          "file":  "documents/security-policy-02.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  202,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "security-policy-03",
+                          "file":  "documents/security-policy-03.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  302,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "security-policy-04",
+                          "file":  "documents/security-policy-04.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  402,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "security-policy-05",
+                          "file":  "documents/security-policy-05.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  502,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "security-policy-06",
+                          "file":  "documents/security-policy-06.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  602,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "security-policy-07",
+                          "file":  "documents/security-policy-07.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  702,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "security-policy-08",
+                          "file":  "documents/security-policy-08.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  802,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "security-policy-09",
+                          "file":  "documents/security-policy-09.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  902,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "security-policy-10",
+                          "file":  "documents/security-policy-10.md",
+                          "domain":  "security",
+                          "owner":  "Security Center",
+                          "approvalLimit":  1002,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "operations-policy-01",
+                          "file":  "documents/operations-policy-01.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  104,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "operations-policy-02",
+                          "file":  "documents/operations-policy-02.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  204,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "operations-policy-03",
+                          "file":  "documents/operations-policy-03.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  304,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "operations-policy-04",
+                          "file":  "documents/operations-policy-04.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  404,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "operations-policy-05",
+                          "file":  "documents/operations-policy-05.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  504,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "operations-policy-06",
+                          "file":  "documents/operations-policy-06.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  604,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "operations-policy-07",
+                          "file":  "documents/operations-policy-07.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  704,
+                          "slaDays":  2
+                      },
+                      {
+                          "id":  "operations-policy-08",
+                          "file":  "documents/operations-policy-08.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  804,
+                          "slaDays":  3
+                      },
+                      {
+                          "id":  "operations-policy-09",
+                          "file":  "documents/operations-policy-09.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  904,
+                          "slaDays":  1
+                      },
+                      {
+                          "id":  "operations-policy-10",
+                          "file":  "documents/operations-policy-10.md",
+                          "domain":  "operations",
+                          "owner":  "Platform Engineering",
+                          "approvalLimit":  1004,
+                          "slaDays":  2
+                      }
+                  ]
+}

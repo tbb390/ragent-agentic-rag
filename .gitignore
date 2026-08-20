@@ -1,0 +1,114 @@
+############################
+# Maven / Java
+############################
+
+target/
+temp/
+.mvn/wrapper/maven-wrapper.jar
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+
+############################
+# STS / Eclipse
+############################
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+
+############################
+# IntelliJ IDEA
+############################
+
+.idea
+
+# Keep useful IDEA configs
+!.idea/dictionaries/
+!.idea/inspectionProfiles/
+!.idea/scopes/
+!.idea/icon.png
+
+*.iws
+*.iml
+*.ipr
+
+
+############################
+# NetBeans
+############################
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+build/
+
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+
+############################
+# VS Code
+############################
+
+.vscode/
+
+
+############################
+# Visual Studio
+############################
+
+.vs/
+
+
+############################
+# Frontend
+############################
+
+node_modules/
+dist/
+.vite/
+
+.env
+.env.local
+
+
+############################
+# Logs
+############################
+
+logs/
+scripts/logs/
+*.log
+
+
+############################
+# OS Generated Files
+############################
+
+.DS_Store
+Thumbs.db
+
+
+############################
+# Runtime / Temporary Files
+############################
+
+*.pid
+*.cache
+
+
+############################
+# Local Docker Override
+############################
+
+docker-compose.override.yml
